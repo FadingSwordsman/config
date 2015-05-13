@@ -1,0 +1,6 @@
+[submodule "files/.config/awesome/themes/awesome-solarized"]
+	path = files/.config/awesome/themes/awesome-solarized
+	url = https://github.com/cycojesus/awesome-solarized
+[submodule "files/.config/awesome/apw"]
+	path = files/.config/awesome/apw
+	url = https://github.com/seniorivn/apw
